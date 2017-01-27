@@ -1,3 +1,8 @@
+body {
+  width: 55%;
+  margin: auto;
+}
+
 h1 {
   font-size: 2em;
   font-family: sans-serif;
@@ -21,7 +26,7 @@ p {
 
 img {
     display: block;
-    width: 30%;
+    width: 45%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -32,13 +37,17 @@ figcaption {
   font-family: sans-serif;
 }
 
+a {
+  text-align: center;
+}
+
 .centerText {
     text-align: center;
 }
 
 ul {
     list-style-type: none;
-    margin: auto;
+    margin: 0 auto;
     padding: 0;
     overflow: auto;;
     background-color: rgb(77, 0, 0);
