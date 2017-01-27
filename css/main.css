@@ -1,7 +1,21 @@
+h1 {
+  font-size: 2em;
+  font-family: sans-serif;
+  color: rgb(77, 0, 0);
+  text-align: center;
+}
+
 h2 {
   font-size: 1.5em;
   font-family: sans-serif;
   color: 	rgb(102, 102, 102);
+  text-align: center;
+}
+
+p {
+  font-size: 1.05em;
+  color: rgb(102, 102, 102);
+  font-family: sans-serif;
   text-align: center;
 }
 
