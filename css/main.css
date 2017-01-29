@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(240, 240, 240);
+  background-color: rgb(238, 238, 238);
   width: 60%;
   margin: auto;
 }
@@ -36,10 +36,6 @@ figcaption {
   font-size: 1.05em;
   color: rgb(102, 102, 102);
   font-family: sans-serif;
-}
-
-a {
-  text-align: center;
 }
 
 .centerText {
