@@ -11,6 +11,14 @@ h1 {
   text-align: center;
 }
 
+#sentence {
+    font-size: 1.25em;
+    color: rgb(102, 102, 102);
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
 h2 {
   font-size: 1.5em;
   font-family: sans-serif;
