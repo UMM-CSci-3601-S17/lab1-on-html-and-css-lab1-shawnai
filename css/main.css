@@ -4,11 +4,13 @@ body {
   margin: auto;
 }
 
+/*We used text-shadow for a new CSS3 feature because it makes our website fancy*/
 h1 {
   font-size: 2em;
   font-family: sans-serif;
   color: rgb(77, 0, 0);
   text-align: center;
+    text-shadow: rgb(10, 0, 0) 0.2em 0.2em 0.2em;
 }
 
 #introduction {
